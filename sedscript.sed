@@ -1,5 +1,7 @@
+#!/bin/sh
 #Caleb Javier - 00252855 
 #Linux Administration - Fall 2025
+#This script will further parse the SedLab file to create a specified result.
 
 /^$/d
 #Removes whitespace for visiblity in terminal.
